@@ -255,33 +255,31 @@ The resulting risk is one of **compensation governance, disclosure, and employee
 
 ### Monthly Compensation — Employee-Facing
 
-**Gross Salary / Cash Earnings: ₹20,335**
-
-Less: Employee PF — **₹1,800**
-
-Less: ESI — **₹153**
-
-### Net Pay: ₹18,382
-
----
-
-### Employer Benefits / CTC Add-On
-
-Employer PF: **₹1,800**
-
----
-
-### Total Monthly CTC / Remuneration: ₹22,135
-
-### Annualized View — Indicative
-
-| Annual Component | Amount (₹) |
+| Compensation Level | Amount (₹) |
 |---|---:|
-| Gross Cash Compensation | 2,44,020 |
-| Employer PF | 21,600 |
-| **Indicative CTC** | **2,65,620** |
+| **Gross Cash Compensation** | **20,335** |
+| Less: Employee PF | −1,800 |
+| Less: ESI | −153 |
+| **Net / In-Hand Pay** | **18,382** |
 
-*Straight-line annualization of the monthly payslip; bonus/LTA may follow different payment schedules under the actual contractual CTC.*
+---
+
+### Employer-Paid Statutory Contribution
+
+**Employer PF: ₹1,800**
+
+The employer PF contribution is separately disclosed as an employer-paid statutory contribution and is **not included in the employee's gross cash salary or net/in-hand pay**.
+
+### Recommended Employee-Facing Presentation
+
+> **Gross Cash Salary: ₹20,335**  
+> **Less: Employee PF: ₹1,800**  
+> **Less: ESI: ₹153**  
+> **Net / In-Hand Pay: ₹18,382**
+>
+> **Employer PF: ₹1,800 — Employer-paid statutory contribution**
+
+This presentation separates the employee's cash compensation from employer-paid statutory contributions and makes the relationship between gross salary, deductions, and net pay immediately visible.
 
 ---
 
