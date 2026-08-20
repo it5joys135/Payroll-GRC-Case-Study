@@ -252,7 +252,7 @@ and reduces the risk of compensation misinterpretation.
 
 # 12 — FINAL CONCLUSION
 
-### CFE Perspective
+### Fraud Assessment Perspective
 
 **Fraud was not substantiated.**
 
@@ -273,7 +273,7 @@ This lack of clarity may contribute to perceived underpayment, reduced compensat
 | Dimension | Finding |
 |---|---|
 | **Jurisdiction** | Maharashtra, India |
-| **CFE / Fraud** | Fraud Not Substantiated |
+| **Fraud** | Fraud Not Substantiated |
 | **Compliance** | No Statutory Violation Established |
 | **GRC** | Control / Transparency Deficiency |
 | **Primary Risk** | Compensation Disclosure & Employee Expectation |
