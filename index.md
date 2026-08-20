@@ -1,8 +1,8 @@
 ---
 
 layout: default
-title: Payroll Compensation Investigation
------------------------------------------
+title: "Payroll Compensation Investigation"
+-------------------------------------------
 
 # PAYROLL COMPENSATION INVESTIGATION
 
@@ -16,7 +16,7 @@ title: Payroll Compensation Investigation
 **Assessment Area:** Employee Compensation, Payroll Controls, Statutory Contributions & Transparency
 **Overall Finding:** **Fraud Not Substantiated | Control / Transparency Deficiency Identified**
 
-> **Confidentiality Note:** Personal and identifying information has been excluded. This case is presented for professional and educational purposes.
+> **Confidentiality Note:** Personal and identifying information has been excluded. The case is presented for professional and educational purposes.
 
 ---
 
