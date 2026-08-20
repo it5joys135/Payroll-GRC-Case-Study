@@ -1,14 +1,14 @@
 ---
 
 layout: default
-title: "Payroll Compensation Investigation — CFE & GRC Assessment"
-------------------------------------------------------------------
+title: Payroll Compensation Investigation
+-----------------------------------------
 
 # PAYROLL COMPENSATION INVESTIGATION
 
 ## INDIA — MAHARASHTRA
 
-### CFE Investigation & Governance, Risk and Compliance Assessment
+### CFE Investigation & GRC Assessment
 
 **Case Classification:** Real-World Payroll Investigation
 **Primary Lens:** Fraud Risk Assessment / Financial Investigation
@@ -205,14 +205,14 @@ The employer PF contribution was independently verified as remitted through EPFO
 | Wage structure                | No violation identified                                 | 🟢     |
 | Payslip presentation          | Classification ambiguity                                | 🟡     |
 | Compensation transparency     | Cash and employer-paid components not clearly separated | 🟡     |
-| Employee expectation risk     | Potential expectation–realization gap                   | 🟠     |
+| Employee expectation risk     | Potential expectation-realization gap                   | 🟠     |
 | Fraud / intentional deception | Not established                                         | ⚪      |
 
 ---
 
 # 10 — FINAL GRC FINDING
 
-## **OVERALL RATING: 🟠 CONTROL / TRANSPARENCY DEFICIENCY**
+## OVERALL RATING: CONTROL / TRANSPARENCY DEFICIENCY
 
 The evidence reviewed does **not establish statutory payroll non-compliance or financial misconduct**.
 
@@ -263,13 +263,13 @@ Independent EPFO evidence confirmed the employer PF contribution was genuinely r
 
 **A control and compensation-transparency deficiency was identified.**
 
-The payroll presentation can create an expectation–realization gap by obscuring the distinction between cash salary, employee deductions, and employer-paid statutory contributions.
+The payroll presentation can create an expectation-realization gap by obscuring the distinction between cash salary, employee deductions, and employer-paid statutory contributions.
 
 This lack of clarity may contribute to perceived underpayment, reduced compensation satisfaction, and erosion of trust in payroll transparency, even in the absence of actual payroll misconduct.
 
 ---
 
-## FINAL CASE CLASSIFICATION
+# FINAL CASE CLASSIFICATION
 
 | Dimension              | Finding                                                                                                     |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------- |
