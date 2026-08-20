@@ -197,15 +197,15 @@ The employer PF contribution was independently verified as remitted through EPFO
 
 | Risk / Control Area | Finding | Rating |
 |---|---|---|
-| Employer PF remittance | Consistent with EPFO | Green |
-| Employee PF | Consistent with reviewed PF wage | Green |
-| ESI | Mathematically consistent | Green |
-| TDS / tax reporting | No discrepancy identified | Green |
-| Wage structure | No violation identified | Green |
-| Payslip presentation | Classification ambiguity | Yellow |
-| Compensation transparency | Cash and employer-paid components not clearly separated | Yellow |
-| Employee expectation risk | Potential expectation-realization gap | Orange |
-| Fraud / intentional deception | Not established | Not Established |
+| Employer PF remittance | Consistent with EPFO | 🟢 **Low** |
+| Employee PF | Consistent with reviewed PF wage | 🟢 **Low** |
+| ESI | Mathematically consistent | 🟢 **Low** |
+| TDS / tax reporting | No discrepancy identified | 🟢 **Low** |
+| Wage structure | No violation identified | 🟢 **Low** |
+| Payslip presentation | Classification ambiguity | 🟡 **Moderate** |
+| Compensation transparency | Cash and employer-paid components not clearly separated | 🟡 **Moderate** |
+| Employee expectation risk | Potential expectation-realization gap | 🟠 **Elevated** |
+| Fraud / intentional deception | Not established | ⚪ **Not Established** |
 
 ---
 
