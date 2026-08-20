@@ -178,7 +178,7 @@ Basic + DA = ₹11,050 against 50% of ₹22,135 = ₹11,067.50. No violation ide
 | TDS discrepancy identified? | **No** |
 | Intentional deception established? | **No** |
 
-## CFE Finding
+## Finding
 
 ### **FRAUD / FINANCIAL MISCONDUCT: NOT SUBSTANTIATED**
 
