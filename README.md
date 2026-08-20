@@ -56,7 +56,7 @@ This case study applies a two-stage professional assessment framework:
 
 | Stage | Focus |
 |---|---|
-| **CFE Investigation** | Fraud risk, financial misconduct, improper deduction, misrepresentation |
+| **Investigation** | Fraud risk, financial misconduct, improper deduction, misrepresentation |
 | **Evidence Analysis** | Payroll records and independent statutory records |
 | **Fraud Assessment** | Test and disposition of fraud hypothesis |
 | **Compliance Review** | PF, ESI, tax and wage-structure assessment |
@@ -68,16 +68,4 @@ This case study applies a two-stage professional assessment framework:
 
 ## Final Assessment
 
-**CFE / Fraud:** Fraud Not Substantiated
 
-**Compliance:** No Statutory Violation Established
-
-**GRC:** Control / Transparency Deficiency
-
-**Primary Risk:** Compensation Disclosure & Employee Expectation
-
----
-
-## Full Case Study
-
-[View the Full Investigation →](./)
