@@ -6,14 +6,6 @@ title: "Payroll Compensation Investigation"
 # PAYROLL COMPENSATION INVESTIGATION
 
 ## INDIA — MAHARASHTRA
----
-layout: default
-title: "Payroll Compensation Investigation"
----
-
-# PAYROLL COMPENSATION INVESTIGATION
-
-## INDIA — MAHARASHTRA
 
 ### CFE Investigation & Governance, Risk and Compliance Assessment
 
