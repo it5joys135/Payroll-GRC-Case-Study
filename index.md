@@ -130,7 +130,7 @@ The investigation tested whether the anomaly represented:
 
 **₹22,135 − ₹3,753 = ₹18,382**
 
-The Employer PF entry appears on both sides of the payslip and therefore mathematically neutralizes.
+**The Employer PF entry appears on both sides of the payslip and therefore mathematically neutralizes.**
 
 However, its presentation creates a **payroll classification and transparency concern**.
 
