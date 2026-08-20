@@ -1,302 +1,287 @@
 ---
-layout: default
-title: "Compensation Transparency & Payroll Presentation Risk"
----
 
-# GRC CASE STUDY
+layout: default
+title: "Payroll Compensation Investigation — CFE & GRC Assessment"
+------------------------------------------------------------------
+
+# PAYROLL COMPENSATION INVESTIGATION
+
 ## INDIA — MAHARASHTRA
 
-# Compensation Transparency & Payroll Presentation Risk
+### CFE Investigation & Governance, Risk and Compliance Assessment
 
-**Governance, Risk & Compliance — Payroll / Employee Compensation / Regulatory Compliance**
+**Case Classification:** Real-World Payroll Investigation
+**Primary Lens:** Fraud Risk Assessment / Financial Investigation
+**Secondary Lens:** Governance, Risk & Compliance
+**Assessment Area:** Employee Compensation, Payroll Controls, Statutory Contributions & Transparency
+**Overall Finding:** **Fraud Not Substantiated | Control / Transparency Deficiency Identified**
 
-### FINAL RATING
-
-> **Control / Transparency Deficiency**
-
-No statutory payroll non-compliance was established from the evidence reviewed; however, a compensation disclosure and payroll-presentation deficiency was identified.
-
----
-
-## 02 — EXECUTIVE SUMMARY
-
-# What Happened & What Was Found
-
-### The Variance
-
-An employee's payslip presented total compensation of **₹22,135/month**, against an actual bank credit of **₹18,382/month**.
-
-The **₹3,753 difference** between the displayed total and net pay consists of:
-
-- Employee PF — ₹1,800
-- ESI — ₹153
-- Employer PF — ₹1,800
-
-The Employer PF is simultaneously included in earnings and deductions, effectively neutralizing it.
-
-### What Evidence Established
-
-Cross-verification against the **EPFO passbook** confirmed the employer contribution was genuinely deposited.
-
-The evidence does **not establish a statutory payroll violation**.
-
-### Material Finding
-
-The payslip format obscures the distinction between:
-
-- **Gross cash salary — ₹20,335**
-- **Employer-paid statutory contribution — ₹1,800**
-- **Net pay — ₹18,382**
-
-This creates a **compensation-transparency deficiency**.
+> **Confidentiality Note:** Personal and identifying information has been excluded. This case is presented for professional and educational purposes.
 
 ---
 
-## 03 — CASE & EVIDENCE
+# 01 — CASE OVERVIEW
 
-# Investigation Scope & Evidence Reviewed
+A payroll review identified a discrepancy between the employee's stated compensation structure, payslip presentation, and net salary received.
 
-The employee's compensation was structured across the following components:
+The investigation was conducted through two lenses:
 
-**Basic, Dearness Allowance, HRA, Professional Development Allowance, Leave Travel Allowance, Bonus, Other Allowance, and Employer PF.**
+* **Fraud Risk Assessment:** Determine whether the payroll structure indicated improper deduction, misrepresentation, or financial misconduct.
+* **GRC:** Assess statutory compliance, payroll controls, and compensation transparency.
 
-The payslip totaled these components to **₹22,135**, inclusive of Employer PF as an earning line, and then listed the same ₹1,800 again under deductions — producing a ₹3,753 gap between the headline figure and net pay.
-
-### Evidence Reviewed
-
-| Source | Purpose |
-|---|---|
-| Compensation structure / offer terms | Baseline stated CTC (~₹22,667) |
-| Monthly payslip | Component-level earnings and deductions |
-| EPFO passbook | Independent verification of PF contributions |
-| AIS & Form 26AS (AY 2025–26, AY 2026–27) | TDS cross-check |
-| EPFO / Ministry guidance | Basis for wage-definition and PF-ceiling rules applied |
-
-> **Evidence Chain:** Payslip → EPFO Passbook → AIS / Form 26AS → Ministry Guidance
-
-All sources were cross-verified for consistency.
+**Investigation Approach:**
+**Red Flag → Fraud Hypothesis → Evidence → Payroll Reconstruction → Verification → Finding**
 
 ---
 
-## 04 — PAYSLIP BREAKDOWN
+# 02 — COMPENSATION BASELINE
 
-# Earnings & Deductions — Component Detail
+| Salary Component                    | Monthly Amount (₹) |
+| ----------------------------------- | -----------------: |
+| Basic                               |              3,683 |
+| DA                                  |              7,367 |
+| HRA                                 |              3,683 |
+| Professional Development            |              1,750 |
+| LTA                                 |              2,500 |
+| Bonus                               |                307 |
+| Other Allowances                    |              1,045 |
+| **Gross Cash Compensation**         |         **20,335** |
+| Employer PF                         |              1,800 |
+| Gratuity / Retiral                  |                532 |
+| **Stated CTC-Based Monthly Figure** |         **22,667** |
+| **Stated Annual Compensation**      |      **₹2,72,000** |
 
-### Earnings
+### Key Distinction
 
-| Component | Amount (₹) |
-|---|---:|
-| Basic | 3,683 |
-| Dearness Allowance | 7,367 |
-| HRA | 3,683 |
-| Professional Development Allowance | 1,750 |
-| LTA | 2,500 |
-| Bonus | 307 |
-| Other Allowance | 1,045 |
-| **Gross Cash Salary** | **20,335** |
-| Employer PF | 1,800 |
-| **Total Shown** | **22,135** |
+**₹20,335** represents gross cash compensation.
 
-### Deductions
+**₹1,800 Employer PF** and **₹532 gratuity** are employer-paid / retiral components.
 
-| Component | Amount (₹) |
-|---|---:|
-| Employee PF | 1,800 |
-| ESI | 153 |
-| Employer PF | 1,800 |
-| **Total Deductions** | **3,753** |
+**₹20,335 + ₹1,800 + ₹532 = ₹22,667**
 
-### Net Pay
+For investigation purposes, ₹22,667 was treated as the stated CTC-based compensation figure rather than cash salary.
+
+---
+
+# 03 — INVESTIGATION TRIGGER
+
+The employee received **₹18,382 net pay**.
+
+The key payroll anomaly was the treatment of **Employer PF of ₹1,800**, which appeared:
+
+* as an earning component; and
+* again as a deduction.
+
+This raised a potential concern that an employer-paid statutory contribution could have been improperly shifted to, or represented as a deduction from, the employee.
+
+No fraud conclusion was made at this stage.
+
+---
+
+# 04 — FRAUD HYPOTHESIS
+
+> **Whether an employer-paid PF contribution was improperly shifted to, deducted from, or misrepresented as part of the employee's compensation.**
+
+The investigation tested whether the anomaly represented:
+
+* legitimate payroll presentation;
+* a payroll/control error;
+* an improper deduction; or
+* potential financial misconduct.
+
+---
+
+# 05 — EVIDENCE REVIEWED
+
+| Evidence                             | Purpose                                |
+| ------------------------------------ | -------------------------------------- |
+| Compensation structure / offer terms | Establish compensation baseline        |
+| Monthly payslip                      | Reconstruct earnings and deductions    |
+| EPFO Passbook                        | Verify PF contributions and remittance |
+| AIS & Form 26AS                      | Cross-check reported income / TDS      |
+| EPFO / Ministry guidance             | Assess statutory treatment             |
+
+### Evidence Chain
+
+**Compensation Structure → Payslip → EPFO → AIS / Form 26AS → Regulatory Guidance**
+
+---
+
+# 06 — PAYROLL RECONSTRUCTION
+
+## Payslip Earnings
+
+| Component                    | Amount (₹) |
+| ---------------------------- | ---------: |
+| Gross Cash Salary            |     20,335 |
+| Employer PF shown as earning |      1,800 |
+| **Total Shown on Payslip**   | **22,135** |
+
+## Payslip Deductions
+
+| Component            | Amount (₹) |
+| -------------------- | ---------: |
+| Employee PF          |      1,800 |
+| ESI                  |        153 |
+| Employer PF          |      1,800 |
+| **Total Deductions** |  **3,753** |
+| **Net Pay**          | **18,382** |
+
+### Reconciliation
 
 **₹22,135 − ₹3,753 = ₹18,382**
 
-> The Employer PF (₹1,800) appears in both earnings and deductions — neutralizing in the calculation but obscuring the headline figure.
+The Employer PF entry appears on both sides of the payslip and therefore mathematically neutralizes.
+
+However, its presentation creates a **payroll classification and transparency concern**.
 
 ---
 
-## 05 — PAYROLL RECONCILIATION
+# 07 — INDEPENDENT VERIFICATION
 
-# ₹22,135 → ₹20,335 → ₹18,382
+## EPFO Verification — May 2026
 
-### The Three Payroll Levels
+| EPFO Item                       | Amount (₹) |
+| ------------------------------- | ---------: |
+| PF Wages                        |     15,000 |
+| Employee EPF                    |      1,800 |
+| Employer EPF                    |        550 |
+| Employer EPS                    |      1,250 |
+| **Total Employer Contribution** |  **1,800** |
 
-| Level | Amount (₹) |
-|---|---:|
-| **Total Remuneration (incl. Employer PF)** | **22,135** |
-| **Gross Cash Salary** | **20,335** |
-| Less: Employee PF | −1,800 |
-| Less: ESI | −153 |
-| **Net Salary (Bank Credit)** | **18,382** |
+### Finding
 
-The payroll reconciliation illustrates how the headline total remuneration of **₹22,135** reduces to gross cash salary of **₹20,335** once the employer PF is excluded, and further reduces to the net bank credit of **₹18,382** after employee statutory deductions.
+The EPFO passbook independently confirms that the **₹1,800 employer contribution was actually remitted**.
 
-The ₹1,800 employer PF is a genuine contribution deposited to the employee's EPFO account — it is **not a deduction from the employee's cash salary**.
+The employee PF contribution of ₹1,800 is also consistent with the reported ₹15,000 PF wage.
 
----
+### Additional Checks
 
-## 06 — EPFO VERIFICATION
+**ESI:**
+₹20,335 × 0.75% = ₹152.51 → **₹153 deducted**
 
-# Independent EPFO Record Verification — May 2026
+**AIS / Form 26AS:**
+No conflicting TDS or income transaction identified.
 
-### EPFO Passbook Data
-
-| Item | Amount (₹) |
-|---|---:|
-| PF Wages | 15,000 |
-| Employee EPF (12%) | 1,800 |
-| Employer EPF | 550 |
-| Employer EPS | 1,250 |
-| **Total Employer Contribution** | **1,800** |
-
-### Assessment Conclusion
-
-The employer contribution is independently confirmed as deposited, consistent with the statutory **₹15,000 PF wage ceiling** and **12% employee contribution framework** under EPFO guidance.
-
-This independently verifies that the **₹1,800 employer PF shown on the payslip was genuinely remitted** — not a fictitious or padded component.
+**Wage Structure:**
+Basic + DA = ₹11,050 against 50% of ₹22,135 = ₹11,067.50. No violation identified from the reviewed assessment.
 
 ---
 
-## 07 — REGULATORY ASSESSMENT
+# 08 — FRAUD ASSESSMENT
 
-# Regulatory Basis — Compliance by Area
+| Investigation Question               | Finding                    |
+| ------------------------------------ | -------------------------- |
+| Employer PF fictitious?              | **Not substantiated**      |
+| Employer PF actually remitted?       | **Confirmed through EPFO** |
+| Employee PF consistent with PF wage? | **Yes**                    |
+| ESI calculation consistent?          | **Yes**                    |
+| TDS discrepancy identified?          | **No**                     |
+| Intentional deception established?   | **No**                     |
 
-### Code on Wages, 2019 — 50% Wage Rule
+## CFE Finding
 
-50% of ₹22,135 = **₹11,067.50**
+### **FRAUD / FINANCIAL MISCONDUCT: NOT SUBSTANTIATED**
 
-Basic + DA = **₹11,050**
+The available evidence does not establish:
 
-The figures are materially aligned.
+* fictitious PF contribution;
+* misappropriation of employer PF;
+* improper retention of statutory contribution; or
+* intentional payroll manipulation.
 
-Ministry guidance confirms employer PF/pension contributions are properly included within the remuneration base.
-
-**No violation established.**
-
-### EPF Contributions
-
-The employer contribution is independently confirmed as deposited in the EPFO record.
-
-The employee contribution of **₹1,800** is also consistent with the reported **₹15,000 PF wage**.
-
-### ESI Calculation
-
-₹20,335 × 0.75% = **₹152.51**
-
-This is consistent with the **₹153 deducted**.
-
-### Income Tax / TDS
-
-No TDS shown on payslip.
-
-AIS and Form 26AS show no transactions.
-
-**No discrepancy identified.**
+The employer PF contribution was independently verified as remitted through EPFO.
 
 ---
 
-## 08 — RISK ASSESSMENT
+# 09 — GRC & COMPLIANCE ASSESSMENT
 
-# Risk Matrix — Compliance vs. Governance vs. Transparency
-
-| Risk Area | Assessment | Rating |
-|---|---|---|
-| Illegal Employer PF deduction | Not established | 🟢 No issue identified |
-| PF contribution / remittance | Consistent with EPFO record | 🟢 No issue identified |
-| ESI calculation | Mathematically consistent | 🟢 No issue identified |
-| TDS discrepancy | No evidence identified | 🟢 No issue identified |
-| 50% Wage Rule | No violation identified | 🟢 No issue identified |
-| Payslip clarity | Deficient presentation format | 🟡 Control Weakness |
-| Compensation transparency | Deficient disclosure | 🟡 Control Weakness |
-| Employee expectation gap | Material risk | 🟠 Risk |
-| Employee trust / retention | Downstream impact | 🟠 Risk |
-| Intentional deception | Not established | ⚪ Not applicable |
-
-> **Overall assessment:** Statutory compliance areas are assessed 🟢 compliant. The material risks are governance and transparency-related (🟡🟠), not legal or regulatory violations.
+| Risk / Control Area           | Finding                                                 | Rating |
+| ----------------------------- | ------------------------------------------------------- | ------ |
+| Employer PF remittance        | Consistent with EPFO                                    | 🟢     |
+| Employee PF                   | Consistent with reviewed PF wage                        | 🟢     |
+| ESI                           | Mathematically consistent                               | 🟢     |
+| TDS / tax reporting           | No discrepancy identified                               | 🟢     |
+| Wage structure                | No violation identified                                 | 🟢     |
+| Payslip presentation          | Classification ambiguity                                | 🟡     |
+| Compensation transparency     | Cash and employer-paid components not clearly separated | 🟡     |
+| Employee expectation risk     | Potential expectation–realization gap                   | 🟠     |
+| Fraud / intentional deception | Not established                                         | ⚪      |
 
 ---
 
-## 09 — FINAL GRC FINDING
+# 10 — FINAL GRC FINDING
 
-# Final GRC Classification
+## **OVERALL RATING: 🟠 CONTROL / TRANSPARENCY DEFICIENCY**
 
-### Overall Rating: 🟠 Control / Transparency Deficiency
+The evidence reviewed does **not establish statutory payroll non-compliance or financial misconduct**.
 
-The available evidence does not establish a statutory payroll non-compliance.
+However, the payslip presentation creates a compensation-transparency deficiency by showing the **₹1,800 Employer PF** within the headline earnings structure while also displaying it under deductions.
 
-Employee and employer PF contributions are reflected in the EPFO record, the employee PF deduction is consistent with the reported PF wage, and the ESI deduction is mathematically consistent with the salary structure.
+### Key Compensation Distinction
 
-The payslip presentation, however, creates a **compensation-transparency deficiency** by including the ₹1,800 employer PF contribution within the headline earnings/total figure while also presenting the same amount under deductions.
+* **Gross Cash Compensation:** ₹20,335
+* **Employee PF:** ₹1,800
+* **ESI:** ₹153
+* **Net Pay:** ₹18,382
+* **Employer PF:** ₹1,800 — employer-paid statutory contribution
 
-Although the amount effectively neutralizes in the payroll calculation, this presentation obscures the distinction between:
-
-- Gross cash salary — **₹20,335**
-- Employer-paid statutory contributions — **₹1,800**
-- Net pay — **₹18,382**
-
-This creates a potential **expectation–realization gap** for employees and may result in perceptions of hidden deductions, underpayment, or unfair compensation.
-
-The resulting risk is one of **compensation governance, disclosure, and employee communication** — not an established statutory violation.
-
-### GRC Classification
-
-| Dimension | Rating |
-|---|---|
-| Compliance | 🟢 No statutory violation established |
-| Governance | 🟡 Compensation disclosure deficient |
-| Risk | 🟠 Employee expectation / trust risk |
-| Control Weakness | 🟠 Payslip presentation format |
-| Fraud / Deception | ⚪ Not established |
+The resulting risk is primarily **governance, payroll-control, and employee-transparency risk**, rather than established fraud or statutory non-compliance.
 
 ---
 
-## 10 — CONTROL RECOMMENDATION
+# 11 — CONTROL RECOMMENDATION
 
-# Recommended Compensation Presentation
+Employer-paid statutory contributions should be presented separately from employee earnings and deductions.
 
-### Monthly Compensation — Employee-Facing
+### Recommended Employee-Facing Format
 
-| Compensation Level | Amount (₹) |
-|---|---:|
-| **Gross Cash Compensation** | **20,335** |
-| Less: Employee PF | −1,800 |
-| Less: ESI | −153 |
-| **Net / In-Hand Pay** | **18,382** |
+**Gross Cash Compensation:** ₹20,335
+**Less: Employee PF:** ₹1,800
+**Less: ESI:** ₹153
+**Net / In-Hand Pay:** ₹18,382
 
----
+**Employer PF:** ₹1,800 — Employer-paid statutory contribution
 
-### Employer-Paid Statutory Contribution
+This format clearly separates:
 
-**Employer PF: ₹1,800**
+**Employee Cash Compensation → Employee Deductions → Net Pay → Employer-Paid Benefits**
 
-The employer PF contribution is separately disclosed as an employer-paid statutory contribution and is **not included in the employee's gross cash salary or net/in-hand pay**.
-
-### Recommended Employee-Facing Presentation
-
-> **Gross Cash Salary: ₹20,335**  
-> **Less: Employee PF: ₹1,800**  
-> **Less: ESI: ₹153**  
-> **Net / In-Hand Pay: ₹18,382**
->
-> **Employer PF: ₹1,800 — Employer-paid statutory contribution**
-
-This presentation separates the employee's cash compensation from employer-paid statutory contributions and makes the relationship between gross salary, deductions, and net pay immediately visible.
+and reduces the risk of compensation misinterpretation.
 
 ---
 
-# Conclusion
+# 12 — FINAL CONCLUSION
 
-The payroll structure was **not found to be demonstrably non-compliant** based on the evidence reviewed.
+### CFE Perspective
 
-However, its presentation creates a **material compensation-transparency deficiency** that can produce an expectation–realization gap and undermine employee trust.
+**Fraud was not substantiated.**
+
+Independent EPFO evidence confirmed the employer PF contribution was genuinely remitted, and no evidence reviewed established misappropriation, fictitious contributions, or intentional payroll manipulation.
+
+### GRC Perspective
+
+**A control and compensation-transparency deficiency was identified.**
+
+The payroll presentation can create an expectation–realization gap by obscuring the distinction between cash salary, employee deductions, and employer-paid statutory contributions.
+
+This lack of clarity may contribute to perceived underpayment, reduced compensation satisfaction, and erosion of trust in payroll transparency, even in the absence of actual payroll misconduct.
 
 ---
 
-### Case Study Classification
+## FINAL CASE CLASSIFICATION
 
-**Governance, Risk & Compliance**
+| Dimension              | Finding                                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Jurisdiction**       | Maharashtra, India                                                                                          |
+| **CFE / Fraud**        | Fraud Not Substantiated                                                                                     |
+| **Compliance**         | No Statutory Violation Established                                                                          |
+| **GRC**                | Control / Transparency Deficiency                                                                           |
+| **Primary Risk**       | Compensation Disclosure & Employee Expectation                                                              |
+| **Recommended Action** | Clearly separate employee cash compensation, employee deductions, and employer-paid statutory contributions |
 
-**Payroll / Employee Compensation / Regulatory Compliance**
+---
 
-**Assessment Type:** Real-World GRC Case Study
+### FINAL PROFESSIONAL FINDING
 
-*Personal and identifying information has been excluded. The analysis is presented for professional and educational GRC demonstration purposes.*
+> **The investigation did not substantiate payroll fraud or statutory non-compliance. It identified a compensation-presentation control weakness that creates unnecessary transparency and employee-expectation risk.**
